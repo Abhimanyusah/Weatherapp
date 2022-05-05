@@ -1,3 +1,3 @@
 # Weather-App
 
-abhimanyusah-weatherapp.netlify.app
+https://abhimanyusah-weatherapp.netlify.app/
